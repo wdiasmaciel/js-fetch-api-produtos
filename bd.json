@@ -1,0 +1,22 @@
+{
+    "produtos": [
+        {
+            "id": 1,
+            "nome": "Notebook Gamer XYZ",
+            "quantidade": 15,
+            "preco": 7599.90
+        },
+        {
+            "id": 2,
+            "nome": "Mouse sem Fio Logitech",
+            "quantidade": 80,
+            "preco": 199.50
+        },
+        {
+            "id": 3,
+            "nome": "Monitor Ultrawide 29\"",
+            "quantidade": 35,
+            "preco": 1450.00
+        }
+    ]
+}
